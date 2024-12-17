@@ -6,3 +6,5 @@
 # Soal 1
 ![gambar](assets/images/soal1.png)
 
+# Soal 3 
+Fungsi Keyword yield* untuk menghasilkan satu nilai dari sebuah fungsi generator. 
