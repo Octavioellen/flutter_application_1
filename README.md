@@ -4,5 +4,5 @@
 # 2D Trpl 
 
 # Soal 1
-![gambar](assets/images/Hasil Prak mobile 1.png)
+![gambar](assets/images/soal1.png)
 
