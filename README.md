@@ -8,3 +8,6 @@
 
 # Soal 3 
 Fungsi Keyword yield* untuk menghasilkan satu nilai dari sebuah fungsi generator. 
+
+# Soal 4
+![rekamlayar](assets/images/Gif mobile.gif)
